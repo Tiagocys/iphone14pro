@@ -1,0 +1,1 @@
+window.location.href = "https://retryngs.com/link?z=5568586&var={SOURCE_ID}&ymid={CLICK_ID}";
